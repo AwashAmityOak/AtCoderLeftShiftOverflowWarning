@@ -2,7 +2,7 @@
 // @name         AtCoderLeftShiftOverflowWarning
 // @namespace    https://github.com/AwashAmityOak
 // @version      0.1.0
-// @description  Warn you if you write `1 << x` on AtCoder.
+// @description  Warn you when you write `1 << x` on AtCoder.
 // @author       AwashAmityOak
 // @license      MIT
 // @match        https://atcoder.jp/contests/*/tasks/*
